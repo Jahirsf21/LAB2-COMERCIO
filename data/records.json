@@ -1,0 +1,1613 @@
+[
+  {
+    "objectID": "SP0001",
+    "title": "Nike Solo Fleece",
+    "description": "Sudadera de cuello redondo para hombre. Tela de calidad, ajuste perfecto: el Solo Fleece es la intersección entre la comodidad y el corte definido.",
+    "brand": "Nike",
+    "price": 31726.1,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Verde",
+        "Blanco"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/eeb78c5d-9ba9-4876-b450-3b250e2b33f0/M+NK+SOLO+BB+LS+CREW.png",
+      "alt": "Nike Solo Fleece"
+    }
+  },
+  {
+    "objectID": "SP0002",
+    "title": "Nike Solo Swoosh",
+    "description": "Sudadera con gorro sin cierre para hombre. Cálida y estructurada, esta sudadera con gorro está hecha con tejido Fleece cepillado de alta densidad, suave por dentro y tersa por fuera.",
+    "brand": "Nike",
+    "price": 40790.7,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 30,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Café",
+        "Celeste"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ac6cb794-3a6c-4476-b723-d20308f90d0b/M+NL+SOLO+SWSH+BB+PO+HOODIE.png",
+      "alt": "Nike Solo Swoosh"
+    }
+  },
+  {
+    "objectID": "SP0003",
+    "title": "Nike Tech",
+    "description": "Chamarra Windrunner de tejido Fleece de cierre completo para hombre. El icónico estilo Nike Windrunner recibe una inyección de comodidad premium con nuestro tejido Fleece que es suave en ambos lados.",
+    "brand": "Nike",
+    "price": 63452.2,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Gris oscuro",
+        "Verde",
+        "Rojo",
+        "Azul"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Actividades al aire libre"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/02b2db0f-c588-46f1-af83-7cd553340f8d/M+NK+TCH+FLC+FZ+WR+HOODIE.png",
+      "alt": "Nike Tech"
+    }
+  },
+  {
+    "objectID": "SP0004",
+    "title": "Nike Standard Issue",
+    "description": "Sudadera con capucha de básquetbol de tejido cepillado Therma-FIT - Hombre. Cuando quieras jugar al aire libre, pero haga un poco de frío, esta sudadera con capucha cálida y suave es ideal.",
+    "brand": "Nike",
+    "price": 38524.55,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 10,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Café",
+        "Rojo",
+        "Vino"
+      ],
+      "size": [
+        "S",
+        "L",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Baloncesto",
+        "Actividades al aire libre"
+      ]
+    },
+    "image": {
+      "url": "https://nikeco.vtexassets.com/arquivos/ids/1052210-1200-auto?v=639129016142100000&width=1200&height=auto&aspect=true",
+      "alt": "Nike Standard Issue"
+    }
+  },
+  {
+    "objectID": "SP0005",
+    "title": "Nike Club",
+    "description": "Sudadera de cuello redondo de tejido Fleece para hombre. La elegancia se combina con un estilo informal en esta sudadera de cuello redondo clásica.",
+    "brand": "Nike",
+    "price": 27633.43,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 35,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Gris oscuro",
+        "Verde",
+        "Rojo",
+        "Azul",
+        "Rosado",
+        "Amarrillo",
+        "Celeste"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e8802608-f8fd-4399-a357-2e76d308bab2/M+NK+CLUB+BB+CREW.png",
+      "alt": "Nike Club"
+    }
+  },
+  {
+    "objectID": "SP0006",
+    "title": "Nike Club Rules",
+    "description": "Sudadera con gorro de French Terry para hombre. Nuestra única regla es romper las reglas. Tomamos el estilo clásico de los clubes de campo y lo reinterpretamos con esta sudadera con gorro de French Terry.",
+    "brand": "Nike",
+    "price": 54387.6,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Verde"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/75c7ebd9-00f6-49bf-b715-0faccffd9198/M+NK+CLUB+RULES+FLC+HOODIE.png",
+      "alt": "Nike Club Rules"
+    }
+  },
+  {
+    "objectID": "SP0007",
+    "title": "Nike Sportswear Club",
+    "description": "Sudadera de cuello redondo de tejido Fleece para hombre. La elegancia se combina con un estilo informal en esta sudadera de cuello redondo clásica.",
+    "brand": "Nike",
+    "price": 23101.13,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 10,
+    "facets": {
+      "color": [
+        "Anaranjado"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/02b2db0f-c588-46f1-af83-7cd553340f8d/M+NK+TCH+FLC+FZ+WR+HOODIE.png",
+      "alt": "Nike Sportswear Club"
+    }
+  },
+  {
+    "objectID": "SP0008",
+    "title": "Nike Standard Issue",
+    "description": "Sudadera con gorro de básquetbol Therma FIT sin cierre para hombre. En un mundo lleno de estilos distintos, el tuyo es verdaderamente único.",
+    "brand": "Nike",
+    "price": 34431.88,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 8,
+    "facets": {
+      "color": [
+        "Negro"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Baloncesto"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto/fe9faf59-b88e-46e9-8530-86712ac12599/M+NK+TF+SI+BRSH+PO+HD+FLN.png",
+      "alt": "Nike Standard Issue"
+    }
+  },
+  {
+    "objectID": "SP0009",
+    "title": "Nike Solo Swoosh",
+    "description": "Sudadera de cuello redondo de tejido Fleece para hombre. Cálida y estructurada, esta sudadera está hecha con tejido Fleece cepillado de alta densidad, suave por dentro y tersa por fuera.",
+    "brand": "Nike",
+    "price": 22194.67,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 40,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Vino",
+        "Beige"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d8994d59-0021-4574-87a7-d56415b47d2d/M+NL+SOLO+SWSH+BB+CREW.png",
+      "alt": "Nike Solo Swoosh"
+    }
+  },
+  {
+    "objectID": "SP0010",
+    "title": "NOCTA",
+    "description": "Sudadera con gorro CS de tejido Fleece. Esta sudadera premium cuenta con un nuevo y exclusivo tejido Fleece con ribetes reflejantes, un logotipo Swoosh de silicona y la marca NOCTA estándar.",
+    "brand": "Nike",
+    "price": 42136.79,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 12,
+    "facets": {
+      "color": [
+        "Gris"
+      ],
+      "size": [
+        "S",
+        "L",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto/fbed80dd-0f4e-4462-9a5a-57397413d0e4/M+NRG+NOCTA+CS+HOODIE+FLC.png",
+      "alt": "NOCTA"
+    }
+  },
+  {
+    "objectID": "SP0011",
+    "title": "Nike Studio Fleece Medium Weight",
+    "description": "Sudadera con gorro oversized de cierre completo para mujer. Descubre Studio Fleece: las telas premium, los ajustes precisos y los detalles cuidadosamente pensados se combinan para ofrecer una colección de tejido Fleece impecable y versátil que le encantará. ",
+    "brand": "Nike",
+    "price": 36258.4,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Gris",
+        "Celeste",
+        "Beige",
+        "Café"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/411fac69-c881-42df-9106-052d442ee605/W+NK+STDO+FLC+MW+OS+FZ+HDY.png",
+      "alt": "Nike Studio Fleece Medium Weight"
+    }
+  },
+  {
+    "objectID": "SP0012",
+    "title": "Nike Standard Issue",
+    "description": "Sudadera con gorro de básquetbol Therma FIT sin cierre para hombre. En un mundo lleno de estilos distintos, el tuyo es verdaderamente único.",
+    "brand": "Nike",
+    "price": 34431.88,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 8,
+    "facets": {
+      "color": [
+        "Negro"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Baloncesto"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto/fe9faf59-b88e-46e9-8530-86712ac12599/M+NK+TF+SI+BRSH+PO+HD+FLN.png",
+      "alt": "Nike Standard Issue"
+    }
+  },
+  {
+    "objectID": "SP0013",
+    "title": "Nike Studio Fleece Medium Weight Graphic Pack",
+    "description": "Sudadera de cuello redondo con estampado en relieve oversized para mujer. Telas premium, ajustes impecables y detalles artesanales: Studio Fleece redefine el estilo relajado con un acabado más refinado.",
+    "brand": "Nike",
+    "price": 36258.4,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 36,
+    "facets": {
+      "color": [
+        "Negro",
+        "Rosado",
+        "Azul",
+        "Gris"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a6669529-6ebc-4b79-a6c5-48a2f8f281fd/W+NK+STDO+FLC+MW+OS+EB+CREW.png",
+      "alt": "Nike Studio Fleece Medium Weight Graphic Pack"
+    }
+  },
+  {
+    "objectID": "SP0014",
+    "title": "Nike Studio Fleece Medium Weight",
+    "description": "Top cropped oversized de cierre de 1/4 para mujer. Telas premium, ajustes impecables y detalles artesanales: Studio Fleece redefine el estilo relajado con un acabado más refinado.",
+    "brand": "Nike",
+    "price": 33992.25,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 10,
+    "facets": {
+      "color": [
+        "Negro",
+        "Rojo",
+        "Rosado",
+        "Beige",
+        "Gris"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8f373b58-0b3e-4854-9ebe-85fadcb0dbf1/W+NK+STDO+FLC+MW+OS+CROP+QZ.png",
+      "alt": "Nike Studio Fleece Medium Weight"
+    }
+  },
+  {
+    "objectID": "SP0015",
+    "title": "Nike Studio Fleece Sport",
+    "description": "Sudadera con gorro sin cierre Dri-FIT para mujer. Mejora tu entrenamiento con esta sudadera con gorro Studio Fleece Sport.",
+    "brand": "Nike",
+    "price": 33992.25,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Morado",
+        "Rosado",
+        "Gris"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Entrenamiento"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1c6e9892-9b67-4156-adf9-8a4d191854e9/W+NK+DF+STDO+FLC+SPT+STD+PO+HD.png",
+      "alt": "Nike Studio Fleece Sport"
+    }
+  },
+  {
+    "objectID": "SP0016",
+    "title": "Nike Sportswear Tech Fleece Windrunner",
+    "description": "Sudadera con gorro de cierre completo para mujer (talla grande). Nuestro tejido Fleece premium y suave en ambos lados se siente más cálido y suave que nunca, al tiempo que mantiene la misma construcción liviana que amas.",
+    "brand": "Nike",
+    "price": 63452.2,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 16,
+    "facets": {
+      "color": [
+        "Negro",
+        "Rosado",
+        "Gris",
+        "Blanco"
+      ],
+      "size": [
+        "1X",
+        "2X",
+        "3X"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Actividades al aire libre"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/db88bf7c-ff7d-473a-b6ea-654621cb19de/W+NSW+TCH+FLC+WR+FZ+HDY.png",
+      "alt": "Nike Sportswear Tech Fleece Windrunner"
+    }
+  },
+  {
+    "objectID": "SP0017",
+    "title": "Nike Sportswear Phoenix Fleece",
+    "description": "Sudadera sin cierre de cuello redondo extra oversized para mujer. Descubre una nueva prenda de descanso elegante, cómoda y versátil.",
+    "brand": "Nike",
+    "price": 28539.89,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Verde",
+        "Vino",
+        "Amarrillo",
+        "Rosado",
+        "Azul oscuro",
+        "Blanco",
+        "Celeste"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Descanso",
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/696cd874-9cd0-4072-8c8f-8dafc595b233/W+NSW+PHNX+FLC+OOS+CREW.png",
+      "alt": "Nike Sportswear Phoenix Fleece"
+    }
+  },
+  {
+    "objectID": "SP0018",
+    "title": "Nike Universa",
+    "description": "Playera Dri-FIT con cierre de 1/4 para mujer. Pulido pero listo para trabajar. Irresistiblemente suave y elegante, esta prenda se siente ligera y aireada, con la cantidad perfecta de flexibilidad y elasticidad para todos tus movimientos.",
+    "brand": "Nike",
+    "price": 30806.04,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Vino",
+        "Celeste",
+        "Verde"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Entrenamiento"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto/1e436f1b-8132-4c38-843c-157a1f27df48/W+NK+UNVRSA+DF+HZ+TOP+FLC.png",
+      "alt": "Nike Universa"
+    }
+  },
+  {
+    "objectID": "SP0019",
+    "title": "NikeCourt Collection",
+    "description": "Playera de tenis de cuello redondo para mujer. Confeccionada pensando en nuestras faldas y shorts de cintura alta, esta sudadera de cuello redondo y tejido Fleece cepillado es una opción cropped cómoda para la cancha.",
+    "brand": "Nike",
+    "price": 30352.81,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Azul oscuro",
+        "Verde agua"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Tenis"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto/e2026bb2-dd39-4b6b-97f9-d86774a924c3/W+NKCT+CRT+CLTN+FLC+CREW.png",
+      "alt": "NikeCourt Collection"
+    }
+  },
+  {
+    "objectID": "SP0020",
+    "title": "Nike Sportswear Studio Fleece",
+    "description": "Sudadera con gorro oversized de cierre completo para niña talla grande. Para mantenerse cómoda no hace falta sacrificar el estilo.",
+    "brand": "Nike",
+    "price": 24927.65,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Celeste",
+        "Rosado",
+        "Gris",
+        "Beige"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8a4951b5-bc7d-4d1c-9d8f-4988a6228f92/G+NSW+STUDIO+FLC+OS+FZ+HD.png",
+      "alt": "Nike Sportswear Studio Fleece"
+    }
+  },
+  {
+    "objectID": "SP0021",
+    "title": "Nike Sportswear Studio",
+    "description": "Sudadera de cuello redondo de tejido Fleece de corte cuadrado para niña. Los ribetes elásticos en tela de canalé brindan un ajuste ceñido y cómodo, ideal para el uso diario.",
+    "brand": "Nike",
+    "price": 20395.35,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Gris"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cd0ce2f8-44fe-41ef-b522-8806e2179bec/G+NSW+STUDIO+FLC+BXY+OS+LBR.png",
+      "alt": "Nike Sportswear Studio"
+    }
+  },
+  {
+    "objectID": "SP0022",
+    "title": "Nike Sportswear Club Fleece",
+    "description": "Sudadera con gorro sin cierre oversized para niños talla grande. A todo el mundo le gusta una sudadera con gorro, sobre todo una tan cómoda y amplia como esta.",
+    "brand": "Nike",
+    "price": 22661.5,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Sudaderas"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Morado",
+        "Rosado",
+        "Gris",
+        "Vino",
+        "Verde agua",
+        "Beige",
+        "Celeste"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto/edfa0e64-3658-4e8b-8d09-8172c2a72fc3/G+NSW+CLUB+FLC+OVRSZD+PO+HDY.png",
+      "alt": "Nike Sportswear Club Fleece"
+    }
+  },
+  {
+    "objectID": "SP0023",
+    "title": "Nike Miler",
+    "description": "Shorts de correr Dri-FIT con forro de ropa interior de 13 cm para hombre.",
+    "brand": "Nike",
+    "price": 19035.66,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 10,
+    "facets": {
+      "color": [
+        "Negro",
+        "Celeste",
+        "Verde agua",
+        "Gris",
+        "Azul oscuro"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Correr"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ecdb7208-3caf-4ed9-a73d-a2124c476a34/M+NK+DF+MILER+5BF+SHORT.png",
+      "alt": "Nike Miler"
+    }
+  },
+  {
+    "objectID": "SP0024",
+    "title": "Ja Standard Issue",
+    "description": "Shorts de básquetbol de 15 cm para hombre",
+    "brand": "Nike",
+    "price": 45323,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Gris",
+        "Vino"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Baloncesto"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ac060fac-6d5b-4698-9ea6-04b66ee69bd5/JA+M+NK+SI+GM+PRO+6IN+SHRT.png",
+      "alt": "Ja Standard Issue"
+    }
+  },
+  {
+    "objectID": "SP0025",
+    "title": "Ja",
+    "description": "Shorts de básquetbol Dri-FIT de 20 cm para hombre.",
+    "brand": "Nike",
+    "price": 21301.81,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Vino",
+        "Azul"
+      ],
+      "size": [
+        "XS",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Baloncesto"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b6e90335-2c94-4493-8a03-e27e316acd65/JA+M+NK+DF+GM+CLSSC+8INSHRTAOP.png",
+      "alt": "Ja"
+    }
+  },
+  {
+    "objectID": "SP0026",
+    "title": "NikeCourt Victory",
+    "description": "Shorts de tenis Dri-FIT de 18 cm para hombre.",
+    "brand": "Nike",
+    "price": 24927.65,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Morado",
+        "Rosado",
+        "Anaranjado",
+        "Vino",
+        "Blanco",
+        "Azul oscuro"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Tenis"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/07648bbd-2be6-4b9b-9e12-dcaa1f21841b/M+NKCT+DF+VCTRY+SHORT+7IN.png",
+      "alt": "NikeCourt Victory"
+    }
+  },
+  {
+    "objectID": "SP0027",
+    "title": "Nike Sportswear Essentials",
+    "description": "Shorts de tejido Woven de tiro medio para mujer",
+    "brand": "Nike",
+    "price": 20395.35,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 25,
+    "facets": {
+      "color": [
+        "Rosado",
+        "Blanco"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/af94c1d5-bded-41e5-b006-43c5215ee48b/W+NSW+MR+ESSNTL+WVN+SHORT+GRAF.png",
+      "alt": "Nike Sportswear Essentials"
+    }
+  },
+  {
+    "objectID": "SP0028",
+    "title": "Nike One",
+    "description": "Shorts 2 en 1 Dri-FIT de tiro alto de 8 cm para mujer.",
+    "brand": "Nike",
+    "price": 20395.35,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 10,
+    "facets": {
+      "color": [
+        "Negro",
+        "Amarrillo",
+        "Rosado",
+        "Gris",
+        "Blanco",
+        "Anaranjado",
+        "Celeste",
+        "Azul oscuro"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "S",
+        "M"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Entrenamiento"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a8f83f12-eec1-4bbb-b055-ba34039ece52/W+NK+ONE+DF+HR+3IN+2N1+SHORT.png",
+      "alt": "Nike One"
+    }
+  },
+  {
+    "objectID": "SP0029",
+    "title": "Sabrina",
+    "description": "Shorts de básquetbol Dri-FIT reversibles.",
+    "brand": "Nike",
+    "price": 18129.2,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Rosado",
+        "Blanco"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "gender": [
+        "Unisex"
+      ],
+      "recommend_use": [
+        "Baloncesto"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto/306bc164-0974-4872-a131-d4490c9e9817/U+NK+DF+SABRINA+SIG+REV+SHRT.png",
+      "alt": "Sabrina"
+    }
+  },
+  {
+    "objectID": "SP0030",
+    "title": "Nike Trophy23",
+    "description": "Shorts Dri-FIT para niños talla grande",
+    "brand": "Nike",
+    "price": 9064.6,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Azul",
+        "Rojo",
+        "Blanco",
+        "Gris"
+      ],
+      "size": [
+        "S",
+        "M",
+        "M",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Entrenamiento"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/22c424ff-3636-486f-9adb-58c43e01b64a/K+NK+DF+TRPHY23+SHORT.png",
+      "alt": "Nike Trophy23"
+    }
+  },
+  {
+    "objectID": "SP0031",
+    "title": "Nike Sportswear Club",
+    "description": "Shorts de tejido Woven de 12 cm para niños talla grande.",
+    "brand": "Nike",
+    "price": 15863.05,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Azul oscuro",
+        "Gris",
+        "Rojo",
+        "Café",
+        "Amarrillo",
+        "Verde",
+        "Celeste"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/460a411c-0469-4fff-a3c1-5bd776b9139c/K+NSW+CLUB+WVN+SHORT+4.5IN.png",
+      "alt": "Nike Sportswear Club"
+    }
+  },
+  {
+    "objectID": "SP0032",
+    "title": "Nike Crossover",
+    "description": "Shorts de básquetbol Dri-FIT para niños talla grande.",
+    "brand": "Nike",
+    "price": 20395.35,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Shorts"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Rosado",
+        "Azul"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Baloncesto"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a8efd9cc-51d8-411f-a1bc-a0796ff69f94/K+NK+DF+CROSSOVER+SHORT+NVLTY.png",
+      "alt": "Nike Crossover"
+    }
+  },
+  {
+    "objectID": "SP0033",
+    "title": "Nike Sportswear",
+    "description": "Playera para hombre. Clásica pero informal, esta playera tiene un corte amplio en el cuerpo.",
+    "brand": "Nike",
+    "price": 16769.51,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 15,
+    "facets": {
+      "color": [
+        "Negro",
+        "Café"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/991bc700-73f4-41ce-bb26-2a1883139e02/M+NSW+SS+MAX+90+TEE+WT.png",
+      "alt": "Nike Sportswear"
+    }
+  },
+  {
+    "objectID": "SP0034",
+    "title": "Nike Sportswear Donut",
+    "description": "Playera para hombre. Esta playera de algodón de alta densidad tiene una caída firme y una sensación estructurada.",
+    "brand": "Nike",
+    "price": 20395.35,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Rosado",
+        "Blanco"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/99e22701-cad5-4ade-94ea-40936f3a806b/M+NSW+SS+MAX90+TEE+DONUT+MB.png",
+      "alt": "Nike Sportswear Donut"
+    }
+  },
+  {
+    "objectID": "SP0035",
+    "title": "Nike Sportswear",
+    "description": "Playera para hombre. ",
+    "brand": "Nike",
+    "price": 21301.81,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0120f927-4824-41f4-8944-f2b46d369390/M+NSW+TEE+LSE+AIR+AM+PLUS.png",
+      "alt": "Nike Sportswear"
+    }
+  },
+  {
+    "objectID": "SP0036",
+    "title": "Nike Stride Aero-FIT",
+    "description": "Playera de correr de manga corta para hombre",
+    "brand": "Nike",
+    "price": 33992.25,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Rosado",
+        "Verde agua",
+        "Verde oscuro"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Men"
+      ],
+      "recommend_use": [
+        "Correr"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4a6689d6-7c24-402a-8742-0c80a6f65591/M+NK+AF+STRIDE+SS+TOP.png",
+      "alt": "Nike Stride Aero-FIT"
+    }
+  },
+  {
+    "objectID": "SP0037",
+    "title": "Nike Sportswear Classic",
+    "description": "Playera oversized para mujer. Esta playera es muy holgada y está confeccionada con algodón lavado de densidad media que se siente suave y ligeramente estructurado.",
+    "brand": "Nike",
+    "price": 16769.51,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Uso diario",
+        "Descanso"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/28814439-c042-49c3-b1a9-59e3dd642372/W+NSW+NK+CLSC+BF+TEE+DNA.png",
+      "alt": "Nike Sportswear Classic"
+    }
+  },
+  {
+    "objectID": "SP0038",
+    "title": "Nike Swift Aero-FIT",
+    "description": "Playera de correr de manga corta para mujer.",
+    "brand": "Nike",
+    "price": 33992.25,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Celeste",
+        "Verde oscuro",
+        "Verde agua"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Correr"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b256c1dd-868b-49ef-8e90-803844f6c064/W+NK+AF+SWIFT+TOP+SS.png",
+      "alt": "Nike Swift Aero-FIT"
+    }
+  },
+  {
+    "objectID": "SP0039",
+    "title": "Nike One",
+    "description": "Playera de manga corta Dri-FIT para mujer",
+    "brand": "Nike",
+    "price": 21301.81,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Celeste",
+        "Rosado"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": [
+        "Women"
+      ],
+      "recommend_use": [
+        "Entrenamiento"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b256c1dd-868b-49ef-8e90-803844f6c064/W+NK+AF+SWIFT+TOP+SS.png",
+      "alt": "Nike One"
+    }
+  },
+  {
+    "objectID": "SP0040",
+    "title": "Nike Sportswear Club",
+    "description": "Playera para niños talla grande. La playera perfecta, fabricada con los estándares de calidad de Nike.",
+    "brand": "Nike",
+    "price": 11330.75,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Gris"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Uso diario"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/509d5eff-11b9-4c26-9d26-7e30f55585e3/K+NSW+TEE+STD+SSNL+CLUB.png",
+      "alt": "Nike Sportswear Club"
+    }
+  },
+  {
+    "objectID": "SP0041",
+    "title": "Nike One",
+    "description": "Playera de manga corta Dri-FIT para mujer",
+    "brand": "Nike",
+    "price": 11330.75,
+    "currency": "CRC",
+    "categories": [
+      "Ropa",
+      "Playeras"
+    ],
+    "in_stock": true,
+    "stock_quantity": 20,
+    "facets": {
+      "color": [
+        "Negro",
+        "Blanco"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": [
+        "Kids"
+      ],
+      "recommend_use": [
+        "Entrenamiento"
+      ]
+    },
+    "image": {
+      "url": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c39d9643-154d-40db-8cdf-eab3f12ccc40/K+NSW+TEE+3D+FUTURA.png",
+      "alt": "Nike One"
+    }
+  }
+]
