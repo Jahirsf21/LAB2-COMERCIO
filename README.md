@@ -30,7 +30,7 @@ El proyecto 1 ya cumplía con los requisitos del laboratorio. Por lo tanto, para
  
 `InstantSearch` envuelve el catálogo y comparte el estado de Algolia con todos estos hooks. Por eso, escribir una consulta, activar una faceta, ajustar el precio o cambiar de página actualiza los resultados de manera simultánea.
  
-Dado que los componentes se construyeron sobre Shadcn UI en lugar de los estilos predeterminados de Algolia, cada elemento como: checkboxes de categoría, slider de precio, tarjetas de producto, botones de paginación hereda automáticamente las variables CSS de color, tipografía y radio de bordes ya definidas en el sistema de diseño del Proyecto I. Esto se refleja en la interfaz resultante: los filtros de Categorías, Marca, Género y Talla comparten la misma paleta neutra y tipografía que el encabezado y los botones "Ampliar foto", sin necesidad de sobreescribir estilos propios de Algolia. De esta manera, el catálogo no se percibe como un widget externo insertado en la página, sino como una extensión natural del diseño visual ya establecido en el resto de la aplicación.
+Dado que los componentes se construyeron sobre Shadcn UI en lugar de los estilos predeterminados de Algolia, cada elemento como: checkboxes de categoría, slider de precio, tarjetas de producto, botones de paginación hereda automáticamente las variables CSS de color, tipografía y radio de bordes ya definidas en el sistema de diseño del Proyecto I. Esto se refleja en la interfaz resultante: los filtros de Categorías, Marca, Género y Talla comparten la misma paleta neutra y tipografía que el encabezado y los botones "Ampliar foto", sin necesidad de sobreescribir estilos propios de Algolia.
  
 ## Experiencia de Usuario (UX)
  
@@ -40,6 +40,7 @@ En escritorio, la interfaz se organiza en **cuatro contenedores funcionales**:
 2. La columna lateral izquierda contiene los filtros y tiene su propio desplazamiento.
 3. El panel principal contiene, en su parte superior, el selector de cantidad de productos por página y la cuadrícula con su propia área de desplazamiento.
 4. El pie del panel de resultados contiene la paginación.
+
 Esta distribución mantiene separadas las acciones de control y el contenido que cambia. La búsqueda permanece en el encabezado. Los filtros se conservan visibles en la columna lateral mientras se recorren los productos. El selector de cantidad por página se mantiene sobre la cuadrícula. Y la paginación queda fuera del área desplazable. Así, el usuario puede ajustar la búsqueda, la cantidad de productos mostrados, los filtros y la página sin perder los controles principales.
  
 Los desplazamientos de la columna de filtros y del panel de resultados son independientes entre sí, por lo tanto, recorrer la cuadrícula de productos no desplaza la columna de filtros, y viceversa. Esto con el fin de que el usuario pueda explorar los productos sin perder de vista los filtros aplicados, y ajustar los filtros sin perder el punto donde se encontraba dentro de la cuadrícula de productos.
